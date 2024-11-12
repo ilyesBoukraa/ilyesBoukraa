@@ -1,5 +1,5 @@
  # 💫 About Me:
-Full-stack dev
+Full-stack dev/ ML Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilyes-ali-boukraa) 
